@@ -84,36 +84,3 @@ npm start
     <img alt="4" src="https://img.shields.io/badge/-Ahmed_Dzhauthanov-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
-
-### В этом проекте я выполнял следующие задачи:
-
-- [x] Создание и контроль веток git
-- [x] Верстка некоторых страниц
-- [x] Организовал роутинг-маршрутизацию внутри проекта
-- [x] Написал логику перебивания цены на аукционе в режиме real-time
-- [x] Фильтрация/сортировка одного товара на аукцион
-- [x] Code review
-
----
-
-Создал реакт-приложение</br>
-Из проекта удалил лишние файлы и создал нужные папки и компоненты для начала работы<br>
-Установил следующие библиотеки в зависимости:
-
-- react-redux
-- react-router-dom
-- redux-toolkit
-- prettier
-- prop-types
-- socket.io-client
-- aos
-- framer motion
-- react-loader-spinner
-
----
-
-### Для выполнения поставленных задач я использовал следующие библиотеки:
-
-- socket.io, socket.io-client - для режима real-time
-- redux, redux-toolkit - чтобы создавать асинхронные экшены
-- react-router-dom - для роутинга
